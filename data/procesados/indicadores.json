@@ -1,0 +1,26 @@
+{
+  "total_registros": 42,
+  "total_validos": 31,
+  "total_invalidos": 11,
+  "por_canal": {
+    "llamada": {
+      "validos": 12,
+      "invalidos": 4
+    },
+    "whatsapp": {
+      "validos": 10,
+      "invalidos": 4
+    },
+    "correo": {
+      "validos": 9,
+      "invalidos": 3
+    }
+  },
+  "por_motivo_rechazo": {
+    "fecha_invalida": 3,
+    "marca_vacia": 2,
+    "texto_vacio": 3,
+    "id_duplicado": 2,
+    "id_ticket_vacio": 1
+  }
+}

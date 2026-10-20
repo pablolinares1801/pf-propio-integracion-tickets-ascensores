@@ -1,0 +1,13 @@
+id_correo,fecha_envio,remitente,asunto,cuerpo_mensaje,sucursal_destino,marca_reportada
+COR-001,2026-05-12,cliente1@correo.com,Reporte de falla de ascensor,"La cabina no nivela bien con el piso, queda un escalon de varios cm.",Montero,Hyundai
+COR-002,2026-02-04,cliente2@correo.com,Reporte de falla de ascensor,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,Santa Cruz - Sur,Hidral
+COR-003,2026-08-10,cliente3@correo.com,Reporte de falla de ascensor,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,Santa Cruz - Equipetrol,BLT
+COR-004,,cliente4@correo.com,Reporte de falla de ascensor,Se escucha un ruido metalico fuerte al abrir las puertas.,Santa Cruz - Norte,Hidral
+COR-005,2026-03-17,cliente5@correo.com,Reporte de falla de ascensor,"Consulta de garantia por ruido en motor, equipo instalado hace 8 meses.",Santa Cruz - Equipetrol,BLT
+COR-006,2026-06-05,cliente6@correo.com,Reporte de falla de ascensor,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",Montero,Orona
+COR-007,2026-05-21,cliente7@correo.com,Reporte de falla de ascensor,,Santa Cruz - Equipetrol,Hyundai
+COR-008,2026-06-06,cliente8@correo.com,Reporte de falla de ascensor,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",Santa Cruz - Norte,BLT
+COR-009,2026-09-25,cliente9@correo.com,Reporte de falla de ascensor,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",Montero,Hyundai
+COR-001,2026-04-20,cliente10@correo.com,Reporte de falla de ascensor,"Luz de cabina parpadea intermitentemente, posible falla electrica menor.",Santa Cruz - Centro,BLT
+COR-011,2026-04-07,cliente11@correo.com,Reporte de falla de ascensor,"Olor a quemado en el cuarto de maquinas, se corto la energia por seguridad.",Montero,Hidral
+COR-012,2026-01-01,cliente12@correo.com,Reporte de falla de ascensor,Las puertas no cierran completamente y se reabren solas.,Santa Cruz - Norte,Hidral

@@ -1,0 +1,32 @@
+id_ticket,canal,fecha_reporte,sucursal,marca_ascensor,texto_ticket,fuente_archivo,fila_origen
+LLM-1001,llamada,2026-06-05,Santa Cruz - Sur,Orona,Se escucha un ruido metalico fuerte al abrir las puertas.,export_callcenter_2026.csv,1
+LLM-1002,llamada,2026-02-12,Montero,Orona,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",export_callcenter_2026.csv,2
+LLM-1004,llamada,2026-02-18,Santa Cruz - Sur,Orona,Falla de frenado reportada por el guardia de seguridad del edificio.,export_callcenter_2026.csv,4
+LLM-1005,llamada,2026-04-21,Montero,Orona,Falla de frenado reportada por el guardia de seguridad del edificio.,export_callcenter_2026.csv,5
+LLM-1007,llamada,2026-05-14,Santa Cruz - Centro,Otro,Se escucha un ruido metalico fuerte al abrir las puertas.,export_callcenter_2026.csv,7
+LLM-1008,llamada,2026-05-18,Santa Cruz - Centro,Orona,Falla de frenado reportada por el guardia de seguridad del edificio.,export_callcenter_2026.csv,8
+LLM-1010,llamada,2026-10-02,Montero,BLT,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,export_callcenter_2026.csv,10
+LLM-1011,llamada,2026-09-14,Santa Cruz - Norte,Hidral,Falla de frenado reportada por el guardia de seguridad del edificio.,export_callcenter_2026.csv,11
+LLM-1013,llamada,2026-02-19,Santa Cruz - Norte,Otro,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,export_callcenter_2026.csv,13
+LLM-1014,llamada,2026-08-10,Montero,Orona,Se escucha un ruido metalico fuerte al abrir las puertas.,export_callcenter_2026.csv,14
+LLM-1015,llamada,2026-07-06,Santa Cruz - Norte,BLT,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,export_callcenter_2026.csv,15
+LLM-1016,llamada,2026-01-22,Santa Cruz - Equipetrol,Otro,Falla de frenado reportada por el guardia de seguridad del edificio.,export_callcenter_2026.csv,16
+WA-WA501,whatsapp,2026-06-23,Montero,Hidral,Se escucha un ruido metalico fuerte al abrir las puertas.,whatsapp_business_export.json,1
+WA-WA503,whatsapp,2026-10-22,Santa Cruz - Sur,Hyundai,"El ascensor se detuvo entre pisos 3 y 4, hay un pasajero atrapado.",whatsapp_business_export.json,3
+WA-WA504,whatsapp,2026-08-12,Santa Cruz - Sur,Orona,"El boton del piso 5 no enciende, el resto funciona normal.",whatsapp_business_export.json,4
+WA-WA506,whatsapp,2026-03-15,Santa Cruz - Centro,Hidral,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",whatsapp_business_export.json,6
+WA-WA507,whatsapp,2026-05-23,Santa Cruz - Centro,BLT,Se escucha un ruido metalico fuerte al abrir las puertas.,whatsapp_business_export.json,7
+WA-WA509,whatsapp,2026-03-09,Santa Cruz - Sur,Otro,Las puertas no cierran completamente y se reabren solas.,whatsapp_business_export.json,9
+WA-WA510,whatsapp,2026-10-19,Montero,Orona,El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,whatsapp_business_export.json,10
+WA-WA512,whatsapp,2026-07-02,Santa Cruz - Sur,BLT,Se escucha un ruido metalico fuerte al abrir las puertas.,whatsapp_business_export.json,12
+WA-WA513,whatsapp,2026-06-20,Montero,BLT,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",whatsapp_business_export.json,13
+WA-WA514,whatsapp,2026-02-12,Santa Cruz - Centro,Otro,"Olor a quemado en el cuarto de maquinas, se corto la energia por seguridad.",whatsapp_business_export.json,14
+COR-COR-001,correo,2026-05-12,Montero,Hyundai,"Reporte de falla de ascensor: La cabina no nivela bien con el piso, queda un escalon de varios cm.",buzon_soporte_2026.csv,1
+COR-COR-002,correo,2026-02-04,Santa Cruz - Sur,Hidral,Reporte de falla de ascensor: El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,buzon_soporte_2026.csv,2
+COR-COR-003,correo,2026-08-10,Santa Cruz - Equipetrol,BLT,Reporte de falla de ascensor: El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja.,buzon_soporte_2026.csv,3
+COR-COR-005,correo,2026-03-17,Santa Cruz - Equipetrol,BLT,"Reporte de falla de ascensor: Consulta de garantia por ruido en motor, equipo instalado hace 8 meses.",buzon_soporte_2026.csv,5
+COR-COR-006,correo,2026-06-05,Montero,Orona,"Reporte de falla de ascensor: Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",buzon_soporte_2026.csv,6
+COR-COR-008,correo,2026-06-06,Santa Cruz - Norte,BLT,"Reporte de falla de ascensor: Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",buzon_soporte_2026.csv,8
+COR-COR-009,correo,2026-09-25,Montero,Hyundai,"Reporte de falla de ascensor: Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",buzon_soporte_2026.csv,9
+COR-COR-011,correo,2026-04-07,Montero,Hidral,"Reporte de falla de ascensor: Olor a quemado en el cuarto de maquinas, se corto la energia por seguridad.",buzon_soporte_2026.csv,11
+COR-COR-012,correo,2026-01-01,Santa Cruz - Norte,Hidral,Reporte de falla de ascensor: Las puertas no cierran completamente y se reabren solas.,buzon_soporte_2026.csv,12

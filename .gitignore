@@ -1,0 +1,17 @@
+# Credenciales del Learner Lab / AWS — nunca deben subirse
+.aws/
+*credentials*
+*credential-provider*
+aws_credentials*
+.env
+.env.*
+
+# Artefactos locales
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# Resultados pesados o regenerables (se regeneran con los scripts)
+*.zip

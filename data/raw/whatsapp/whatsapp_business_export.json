@@ -1,0 +1,114 @@
+[
+  {
+    "ticket_id": "WA501",
+    "timestamp": "2026-06-23 12:38",
+    "telefono_cliente": "+59179332820",
+    "sede": "Montero",
+    "modelo_equipo": "Hidral",
+    "mensaje": "Se escucha un ruido metalico fuerte al abrir las puertas."
+  },
+  {
+    "ticket_id": "WA502",
+    "timestamp": "no-disponible",
+    "telefono_cliente": "+59172090518",
+    "sede": "Santa Cruz - Equipetrol",
+    "modelo_equipo": "Hyundai",
+    "mensaje": "Luz de cabina parpadea intermitentemente, posible falla electrica menor."
+  },
+  {
+    "ticket_id": "WA503",
+    "timestamp": "2026-10-22 20:28",
+    "telefono_cliente": "+59175774720",
+    "sede": "Santa Cruz - Sur",
+    "modelo_equipo": "Hyundai",
+    "mensaje": "El ascensor se detuvo entre pisos 3 y 4, hay un pasajero atrapado."
+  },
+  {
+    "ticket_id": "WA504",
+    "timestamp": "2026-08-12 09:39",
+    "telefono_cliente": "+59172964541",
+    "sede": "Santa Cruz - Sur",
+    "modelo_equipo": "Orona",
+    "mensaje": "El boton del piso 5 no enciende, el resto funciona normal."
+  },
+  {
+    "ticket_id": "WA505",
+    "timestamp": "2026-05-05 18:15",
+    "telefono_cliente": "+59177675615",
+    "sede": "Santa Cruz - Sur",
+    "modelo_equipo": "Hidral",
+    "mensaje": ""
+  },
+  {
+    "ticket_id": "WA506",
+    "timestamp": "2026-03-15 13:35",
+    "telefono_cliente": "+59175661367",
+    "sede": "Santa Cruz - Centro",
+    "modelo_equipo": "Hidral",
+    "mensaje": "Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal."
+  },
+  {
+    "ticket_id": "WA507",
+    "timestamp": "2026-05-23 13:22",
+    "telefono_cliente": "+59177382745",
+    "sede": "Santa Cruz - Centro",
+    "modelo_equipo": "BLT",
+    "mensaje": "Se escucha un ruido metalico fuerte al abrir las puertas."
+  },
+  {
+    "ticket_id": "WA508",
+    "timestamp": "2026-03-05 10:42",
+    "telefono_cliente": "+59174914729",
+    "sede": "Santa Cruz - Equipetrol",
+    "modelo_equipo": "",
+    "mensaje": "Falla de frenado reportada por el guardia de seguridad del edificio."
+  },
+  {
+    "ticket_id": "WA509",
+    "timestamp": "2026-03-09 11:00",
+    "telefono_cliente": "+59173444044",
+    "sede": "Santa Cruz - Sur",
+    "modelo_equipo": "Otro",
+    "mensaje": "Las puertas no cierran completamente y se reabren solas."
+  },
+  {
+    "ticket_id": "WA510",
+    "timestamp": "2026-10-19 12:08",
+    "telefono_cliente": "+59179648511",
+    "sede": "Montero",
+    "modelo_equipo": "Orona",
+    "mensaje": "El ascensor funciona pero hace un frenado muy brusco al llegar a planta baja."
+  },
+  {
+    "ticket_id": "",
+    "timestamp": "2026-09-13 13:25",
+    "telefono_cliente": "+59177612236",
+    "sede": "Santa Cruz - Equipetrol",
+    "modelo_equipo": "Hidral",
+    "mensaje": "Luz de cabina parpadea intermitentemente, posible falla electrica menor."
+  },
+  {
+    "ticket_id": "WA512",
+    "timestamp": "2026-07-02 10:04",
+    "telefono_cliente": "+59174502465",
+    "sede": "Santa Cruz - Sur",
+    "modelo_equipo": "BLT",
+    "mensaje": "Se escucha un ruido metalico fuerte al abrir las puertas."
+  },
+  {
+    "ticket_id": "WA513",
+    "timestamp": "2026-06-20 07:06",
+    "telefono_cliente": "+59171003913",
+    "sede": "Montero",
+    "modelo_equipo": "BLT",
+    "mensaje": "Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal."
+  },
+  {
+    "ticket_id": "WA514",
+    "timestamp": "2026-02-12 16:01",
+    "telefono_cliente": "+59172179699",
+    "sede": "Santa Cruz - Centro",
+    "modelo_equipo": "Otro",
+    "mensaje": "Olor a quemado en el cuarto de maquinas, se corto la energia por seguridad."
+  }
+]

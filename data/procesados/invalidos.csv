@@ -1,0 +1,12 @@
+id_ticket,canal,fecha_reporte,sucursal,marca_ascensor,texto_ticket,fuente_archivo,fila_origen,motivo_rechazo
+LLM-1003,llamada,32/13/2026,Santa Cruz - Sur,Hidral,Se escucha un ruido metalico fuerte al abrir las puertas.,export_callcenter_2026.csv,3,fecha_invalida
+LLM-1006,llamada,2026-07-02,Santa Cruz - Centro,,"Se solicita revision de la velocidad de la cabina, parece mas lenta de lo normal.",export_callcenter_2026.csv,6,marca_vacia
+LLM-1009,llamada,2026-04-12,Santa Cruz - Equipetrol,Otro,,export_callcenter_2026.csv,9,texto_vacio
+LLM-1001,llamada,2026-06-10,Santa Cruz - Centro,BLT,"Consulta de garantia por ruido en motor, equipo instalado hace 8 meses.",export_callcenter_2026.csv,12,id_duplicado
+WA-WA502,whatsapp,no-disponible,Santa Cruz - Equipetrol,Hyundai,"Luz de cabina parpadea intermitentemente, posible falla electrica menor.",whatsapp_business_export.json,2,fecha_invalida
+WA-WA505,whatsapp,2026-05-05,Santa Cruz - Sur,Hidral,,whatsapp_business_export.json,5,texto_vacio
+WA-WA508,whatsapp,2026-03-05,Santa Cruz - Equipetrol,,Falla de frenado reportada por el guardia de seguridad del edificio.,whatsapp_business_export.json,8,marca_vacia
+,whatsapp,2026-09-13,Santa Cruz - Equipetrol,Hidral,"Luz de cabina parpadea intermitentemente, posible falla electrica menor.",whatsapp_business_export.json,11,id_ticket_vacio
+COR-COR-004,correo,,Santa Cruz - Norte,Hidral,Reporte de falla de ascensor: Se escucha un ruido metalico fuerte al abrir las puertas.,buzon_soporte_2026.csv,4,fecha_invalida
+COR-COR-007,correo,2026-05-21,Santa Cruz - Equipetrol,Hyundai,,buzon_soporte_2026.csv,7,texto_vacio
+COR-COR-001,correo,2026-04-20,Santa Cruz - Centro,BLT,"Reporte de falla de ascensor: Luz de cabina parpadea intermitentemente, posible falla electrica menor.",buzon_soporte_2026.csv,10,id_duplicado
