@@ -20,8 +20,7 @@ ingesta cruda a S3 → normalización a un esquema único + validación
 consultas analíticas con Amazon Athena.
 
 > **Nota de alcance:** este proyecto NO clasifica la urgencia de los tickets
-> ni recomienda soluciones — eso corresponde a la tesis de maestría del
-> autor (Capas 1 y 2, fuera del alcance de este curso). Aquí el foco es
+> ni recomienda soluciones — eso corresponde a la tesis de maestría (Capas 1 y 2, fuera del alcance de este curso). Aquí el foco es
 > exclusivamente la integración/calidad de datos: el insumo que ese otro
 > trabajo necesitaría como entrada limpia.
 
